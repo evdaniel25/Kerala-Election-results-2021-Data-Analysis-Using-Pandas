@@ -24,11 +24,11 @@ The analysis of the data is done using the Pandas library in Python. The code fo
 
 In the analysis, we explore the following questions:
 
-Which party won the most seats in the election?
-Which constituency had the highest voter turnout?
-Which candidate won by the highest margin in their constituency?
-What was the average percentage of votes received by each party?
-Which party received the most votes through postal ballots?
+- Which party won the most seats in the election?
+- Which constituency had the highest voter turnout?
+- Which candidate won by the highest margin in their constituency?
+- What was the average percentage of votes received by each party?
+- Which party received the most votes through postal ballots?
 
 ## **Usage**
 To run the code, you can follow these steps:
